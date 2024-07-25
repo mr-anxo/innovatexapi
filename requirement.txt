@@ -1,0 +1,10 @@
+django
+psycopg2-binary
+djangorestframework
+django-filter
+dj-rest-auth
+django-cors-headers
+drf-yasg
+uritemplate
+pyyaml
+django-rest-swagger
